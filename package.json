@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "dev": "nodemon --files src/index.ts"
+    "dev": "nodemon --files src/index.ts",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
